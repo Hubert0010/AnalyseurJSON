@@ -1,0 +1,30 @@
+{
+   "people": [
+      {
+         "firstName": "Hubert",
+         "lastName": "ATSOU",
+         "gender": "male",
+         "age": 20,
+         "number": "96679343"
+      },
+      {
+         "firstName": "Jethro",
+         "lastName": "ANATOR",
+         "gender": "female",
+         "age": 18,
+         "number": [
+            {
+               "test": 10,
+               "test2": 15
+            }
+         ]
+      },
+      {
+         "firstName": "Riley",
+         "lastName": "ATSOU",
+         "gender": "female",
+         "age": 10,
+         "number": "96659962"
+      }
+   ]
+}
